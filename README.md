@@ -1,1 +1,1 @@
-# shadow-config
+# shadow-ops
